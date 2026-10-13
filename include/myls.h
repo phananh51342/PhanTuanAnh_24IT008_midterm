@@ -1,4 +1,4 @@
-#ifdef MYLS_H
+#ifndef MYLS_H
 #define MYLS_H
 
 #include <sys/types.h>
