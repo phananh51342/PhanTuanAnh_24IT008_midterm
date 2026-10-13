@@ -42,7 +42,7 @@ typedef struct {
 
 extern int exit_status;
 
-int parse_options(int argc, char **argv, Option *opt);
+int parse_options(int argc, char **argv, Options *opt);
 
 void list_operands(int count, char **paths, const Options *opt);
 
