@@ -1,4 +1,4 @@
-# Midterm Project: Implement ls(4)
+# Midterm Project: Implement ls(1)
 
 ## 1. Thông tin sinh viên
 
